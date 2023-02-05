@@ -1,1 +1,1 @@
-# group8-project
+# Group 8: Sydney Cohen, Ianna Gilbert, Lauren Berk
