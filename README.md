@@ -3,3 +3,5 @@
 Background
 
 Research Question
+
+Hypothesis and next steps
